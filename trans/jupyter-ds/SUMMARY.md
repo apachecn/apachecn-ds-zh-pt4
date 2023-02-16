@@ -1,3 +1,4 @@
++   [Jupyter 数据科学](README.md)
 +   [零、前言](00.md)
 +   [一、Jupyter和数据科学](01.md)
 +   [二、使用Jupyter分析数据](02.md)
@@ -9,4 +10,3 @@
 +   [八、统计建模](08.md)
 +   [九、Jupyter 和机器学习](09.md)
 +   [十、优化 Jupyter 笔记本](10.md)
-+   [Jupyter 数据科学](README.md)

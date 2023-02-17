@@ -6,7 +6,7 @@
 	+   [三、数据可视化](04.md)
 	+   [四、Streamlit 和机器学习](05.md)
 	+   [五、部署 Streamlit，实现 Streamlit 共享](06.md)
-+   [第二部分：高级Streamlit应用](07.md)
++   [第二部分：高级 Streamlit 应用](07.md)
 	+   [六、美化 Streamlit 应用](08.md)
 	+   [七、探索 Streamlit 组件](09.md)
 	+   [八、使用 Heroku 和 AWS 部署 Streamlit 应用](10.md)

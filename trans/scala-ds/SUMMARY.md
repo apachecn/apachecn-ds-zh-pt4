@@ -1,3 +1,4 @@
++   [Scala 数据科学](README.md)
 +   [零、前言](00.md)
 +   [一、Scala 和数据科学](01.md)
 +   [二、使用 Breeze 处理数据](02.md)
@@ -14,4 +15,3 @@
 +   [十三、Play 和 Web APIs](13.md)
 +   [十四、使用 D3 和 Play 框架实现可视化](14.md)
 +   [十五、附录 A：模式匹配和提取器](15.md)
-+   [Scala 数据科学](README.md)
